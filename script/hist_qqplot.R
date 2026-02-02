@@ -229,3 +229,4 @@ ggsave(filename = "results/figures/nat_h2_data_imp.png",
        height = 9, 
        width = 12,
        units = "in")
+1
